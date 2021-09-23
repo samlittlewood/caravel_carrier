@@ -1,6 +1,9 @@
 A carrier PCB for the Efabless Caravel WLCSP SoC used by the GoogleSkywater 130nm ASIC shuttle program.
 =======================================================================================================
 
+IMPORTANT: Matt Venn just pointed out (https://github.com/samlittlewood/caravel_carrier/issues/3) that the ASIC footprint is flipped, so please don't build this or use it as the basis for furter projects until this is resolved.
+
+
 Based on https://raw.githubusercontent.com/efabless/caravel/release/doc/caravel_datasheet.pdf
 
 This PCB features:
